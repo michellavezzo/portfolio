@@ -4,19 +4,13 @@ export const workSlider = {
         {
             images: [
                 {
-                    title: "WiseAPI",
-                    path: "/wise-api.svg",
-                    url: "https://wisecare.com.br/",
-                    color: "#DEDEDE",
-                },
-                {
                     title: "Germanicos Website",
                     path: "/germanicos-white-logo.svg",
                     url: "https://tailor.com.au/",
                     color: "#131200",
                 },
                 {
-                    title: "The Tip General Web/IOS/Android App",
+                    title: "TTG Web/IOS/Android App",
                     path: "/TTG-logo.svg",
                     url: "https://apps.apple.com/us/app/the-tip-general/id6449004056/",
                     color: "#174540",
@@ -26,6 +20,12 @@ export const workSlider = {
                     path: "/netfans.svg",
                     url: "https://www.netfans.tv/",
                     color: "#1c1b1b",
+                },
+                {
+                    title: "WiseAPI",
+                    path: "/wise-api.svg",
+                    url: "https://wisecare.com.br/",
+                    color: "#DEDEDE",
                 },
             ],
         },
@@ -50,21 +50,15 @@ export const workSlider = {
                     color: "#DEDEDE",
                 },
                 {
-                    title: "Netfans",
-                    path: "/netfans.svg",
-                    url: "https://www.netfans.tv/",
-                    color: "#1c1b1b",
-                },
-            ],
-        },
-        {
-            images: [
-                {
                     title: "The Tip General Website",
                     path: "/TTG-logo.svg",
                     url: "https://thetipgeneral.com/",
                     color: "#174540",
                 },
+            ],
+        },
+        {
+            images: [
                 {
                     title: "Germanicos ERP System",
                     path: "/germanicos-white-logo.svg",
@@ -83,6 +77,12 @@ export const workSlider = {
                     url: "https://gamersclub.gg/",
                     color: "#DEDEDE",
                 },
+                {
+                    title: "HCM Hotel - Menu",
+                    path: "/HCM-LOGO.png",
+                    url: "https://playvalorant.com/pt-br/",
+                    color: "#DEDEDE",
+                },
             ],
         },
         {
@@ -92,12 +92,6 @@ export const workSlider = {
                     path: "/TTG-logo.svg",
                     url: "https://app.thetipgeneral.com/",
                     color: "#174540",
-                },
-                {
-                    title: "HCM Hotel - Menu",
-                    path: "/HCM-LOGO.png",
-                    url: "https://playvalorant.com/pt-br/",
-                    color: "#DEDEDE",
                 },
             ],
         },
