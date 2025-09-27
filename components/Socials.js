@@ -17,21 +17,21 @@ const Socials = () => {
   return (
     <div className="flex items-center gap-x-5 text-lg">
       <Link
-        href={"https://github.com/dannyelgjl"}
+        href={"https://github.com/michellavezzo"}
         target="_blank"
         className="hover:text-accent transition-all duration-300"
       >
-        <VscGithub />
+        <VscGithub size={24} />
       </Link>
       {/* <Link href={""} className="hover:text-accent transition-all duration-300">
         <RiFacebookLine />
       </Link> */}
       <Link
-        href={"https://www.instagram.com/danieljeronimo_"}
+        href={"https://www.instagram.com/michellavezzo/"}
         className="hover:text-accent transition-all duration-300"
         target="_blank"
       >
-        <RiInstagramLine />
+        <RiInstagramLine size={24} />
       </Link>
       {/* <Link href={""} className="hover:text-accent transition-all duration-300">
         <RiDribbbleLine />
