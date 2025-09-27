@@ -10,7 +10,7 @@ export const workSlider = {
                     color: "#131200",
                 },
                 {
-                    title: "TTG Web/IOS/Android App",
+                    title: "TTG IOS/Android App",
                     path: "/TTG-logo.svg",
                     url: "https://apps.apple.com/us/app/the-tip-general/id6449004056/",
                     color: "#174540",
@@ -89,6 +89,12 @@ export const workSlider = {
             images: [
                 {
                     title: "The Tip General Admin Panel",
+                    path: "/TTG-logo.svg",
+                    url: "https://app.thetipgeneral.com/",
+                    color: "#174540",
+                },
+                {
+                    title: "TTG Web App",
                     path: "/TTG-logo.svg",
                     url: "https://app.thetipgeneral.com/",
                     color: "#174540",
