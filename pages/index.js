@@ -31,14 +31,14 @@ const Home = () => {
             </div>
             {/* text */}
             <div className='z-10 w-full h-full bg-gradient-to-r from-primary/10 via-black/30 to-black/10'>
-                <div className='z-10 text-center flex flex-col justify-center xl:pt-40 xl:text-left h-full container mx-auto'>
+                <div className='z-10 text-center flex flex-col justify-center xl:pt-40 xl:text-left container mx-auto pt-14 h-full '>
                     {/* title */}
                     <motion.h1
                         variants={fadeIn("down", 0.2)}
                         initial='hidden'
                         animate='show'
                         exit='hidden'
-                        className='h1'
+                        className='h1 max-2xs:text-3xl'
                     >
                         Transforming Ideas <br /> Into{" "}
                         <span className='text-accent'>Digital Reality</span>
@@ -49,7 +49,7 @@ const Home = () => {
                         initial='hidden'
                         animate='show'
                         exit='hidden'
-                        className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16'
+                        className='max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16 max-xs:leading-6'
                     >
                         My name is Michel Lavezzo, I am a computer engineer
                         passionate about technology, specialist in the

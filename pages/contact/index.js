@@ -25,7 +25,7 @@ const Contact = () => {
     }
 
     return (
-        <div className='h-[100vh] bg-primary/30'>
+        <div className='h-[100dvh] bg-primary/30'>
             <Circles />
             <div className='container mx-auto py-32 text-center xl:text-left flex items-center justify-center h-full'>
                 {/* text & form */}
