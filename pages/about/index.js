@@ -79,6 +79,12 @@ export const aboutData = [
         title: "experience",
         info: [
             {
+                title: "Founder - LVZ SPS",
+                // stage: "2012 - 2023",
+                // stage:
+                //   "Founder of Swipe Up Technology, focused on turning dreams into reality through technology",
+            },
+            {
                 title: "Tellis International - Project Manager",
                 // stage: "2012 - 2023",
                 // stage:
