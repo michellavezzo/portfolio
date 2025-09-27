@@ -22,7 +22,7 @@ const Header = () => {
                             src={"/michel_logo.svg"}
                             width={220}
                             height={48}
-                            alt=''
+                            alt='Michel Lavezzo Logo'
                             priority={true}
                         />
                     </Link>
