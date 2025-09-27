@@ -53,14 +53,14 @@ const Contact = () => {
                         <div className='flex gap-x-6 w-full'>
                             <input
                                 type='text'
-                                placeholder='name'
+                                placeholder='Name'
                                 className='input capitalize'
                                 aria-label='Name'
                                 {...register("name", { required: true })}
                             />
                             <input
                                 type='email'
-                                placeholder='email'
+                                placeholder='Email'
                                 className='input'
                                 aria-label='Email'
                                 {...register("email", { required: true })}
@@ -68,13 +68,13 @@ const Contact = () => {
                         </div>
                         <input
                             type='text'
-                            placeholder='subject'
+                            placeholder='Subject'
                             className='input'
                             aria-label='Subject'
                             {...register("subject", { required: true })}
                         />
                         <textarea
-                            placeholder='message'
+                            placeholder='Message'
                             className='textarea'
                             aria-label='Message'
                             {...register("message", { required: true })}
