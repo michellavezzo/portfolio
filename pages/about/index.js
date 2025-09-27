@@ -25,6 +25,8 @@ import {
     SiCapacitor,
 } from "react-icons/si"
 
+import { TbSeo } from "react-icons/tb"
+
 //  about data
 export const aboutData = [
     {
@@ -42,6 +44,7 @@ export const aboutData = [
                     <FaVuejs key={6} title='Vue' />,
                     <SiNuxtdotjs key={7} title='Nuxt' />,
                     <SiCapacitor key={8} title='Capacitor' />,
+                    <TbSeo key={9} title='SEO' />,
                 ],
             },
             {
